@@ -28,7 +28,7 @@ Gerenciar e organizar a vida do professor antes, durante e depois da aula, duran
 - Interação com aluno por Telegram / Whatsapp robotizado. 
 - Integração com sites das instituições de ensino.
   
-# Colaboradores: 
+# Sobre colaboração para o Projeto: 
 
 Este projeto, iniciado em 05 de 2022, está sendo gerenciado por mim Adriano Machado e desenvolvido em em grupo de colaboradores. 
 
@@ -38,8 +38,16 @@ Qualquer pessoa poderá colaborar de forma anonima ou não com o desenvolvimento
     
 A colaboração sempre deverá seguir boas práticas definidas para a linguagem, framework ou ferramenta em uso. 
 
-## Adriano Machado:
-### Instrutor de Linguagens de Programação, Analise de Dados e Sistemas Operacionais Linux, 47 Anos, Campo Grande, MS. 
+# Colaboradores: 
+- Adriano Machado: Instrutor de Linguagens de Programação, Analise de Dados e Sistemas Operacionais Linux, 47 Anos, Campo Grande, MS. 
+(Gerente de Projeto, Arquiteto da Informação, Projgramador, Desenvolvedor Back-End, Administrador de Banco de Dados, Gerente de Infraestrutura de TI)
+
+Estamos buscando: 
+- Administrador de Banco de Dados: 
+- Desenvolvedor Back-end:
+- Designer: 
+- Desenvolvedor Front-End:
+- Analista de Testes:
 
 
 # Status do Projeto No modelo SCRUM
