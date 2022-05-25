@@ -3,7 +3,7 @@
 # Software de Gestão do Ensino com Excelencia! 
 
 ## Descrição do Projeto: 
-Prover base tecnologica para professores de aulas online, presenciais e hibridas, seja no ensino técnico, profissionalizante, fundamental, médio ou superior com o intuito de facilitar a excelencia no ensino! 
+Prover base tecnológica para professores de aulas online, presenciais e hibridas, seja no ensino técnico, profissionalizante, fundamental, médio ou superior com o intuito de facilitar a excelencia no ensino! 
 
 ## OBP é um acronimo para "O Bom Professor" - Software de Gestão do Professor em Sala
 
@@ -22,6 +22,11 @@ Gerenciar e organizar a vida do professor antes, durante e depois da aula, duran
 # Inicialização: Utilize a clonagem do repositorio
 
     git clone https://github.com/Machado-tec/obp.git
+
+# Grupo Discussão e Reuniões
+
+  Telegram --> https://t.me/+2ElsFnxZ1RFjNjE5 
+
 
 # Implementações Futuras:
 
@@ -45,13 +50,26 @@ A colaboração sempre deverá seguir boas práticas definidas para a linguagem,
 (#Gerente de Projeto, #Arquiteto da Informação, #Programador, #Administrador de Banco de Dados, #Gerente de Infraestrutura)
 
 ###Estamos buscando: 
+- Secretaria:
+- Conselheiros dos setores:
+  - Privado :
+  - Publico :
+  - Tecnico :
+  - Acessibilidade:
+  - Libras: 
+  - Idiomas: 
 
-- Gestão de Docs e Repositorios: 
+- Gestor Marketing:
+- Gestor Financeira: 
+- Gestor de Docs 
+- Gestor de Repositorios: 
 - Administrador de Banco de Dados: 
 - Desenvolvedor Back-end:
 - Designer: 
 - Desenvolvedor Front-End:
 - Analista de Testes:
+- Revisor de Documentos: 
+- Midia
 
 
 # Status do Projeto No modelo SCRUM
