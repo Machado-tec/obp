@@ -46,6 +46,7 @@ A colaboração sempre deverá seguir boas práticas definidas para a linguagem,
 
 ###Estamos buscando: 
 
+- Gestão de Docs e Repositorios: 
 - Administrador de Banco de Dados: 
 - Desenvolvedor Back-end:
 - Designer: 
