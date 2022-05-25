@@ -1,9 +1,9 @@
 # OBP O Bom Professor
 
-# Software de Gestão do Ensino
+# Software de Gestão do Ensino com Excelencia! 
 
 ## Descrição do Projeto: 
-Desenvolvimento de um software para gestão de aula online ou presencial, para professores de ensino técnico, profissionalizante, fundamental médio ou superior.
+Prover base tecnologica para professores de aulas online, presenciais e hibridas, seja no ensino técnico, profissionalizante, fundamental, médio ou superior com o intuito de facilitar a excelencia no ensino! 
 
 ## OBP é um acronimo para "O Bom Professor" - Software de Gestão do Professor em Sala
 
