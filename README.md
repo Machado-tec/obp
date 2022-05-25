@@ -1,4 +1,6 @@
-# OBP O Bom Professor
+# OBP O Bom Professor 
+## OpenSource 
+## Status:Projeto. Faça Parte!
 
 # Software de Gestão do Ensino com Excelencia! 
 
