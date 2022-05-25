@@ -39,10 +39,13 @@ Qualquer pessoa poderá colaborar de forma anonima ou não com o desenvolvimento
 A colaboração sempre deverá seguir boas práticas definidas para a linguagem, framework ou ferramenta em uso. 
 
 # Colaboradores: 
-- Adriano Machado: Instrutor de Linguagens de Programação, Analise de Dados e Sistemas Operacionais Linux, 47 Anos, Campo Grande, MS. 
-(Gerente de Projeto, Arquiteto da Informação, Projgramador, Desenvolvedor Back-End, Administrador de Banco de Dados, Gerente de Infraestrutura de TI)
+- Adriano Machado: 
+  - adriano@machado.tec.br | +55 67 992636781
+  - Instrutor de Linguagens de Programação, Analise de Dados e Sistemas Operacionais Linux, 47 Anos, Campo Grande, MS. 
+(#Gerente de Projeto, #Arquiteto da Informação, #Programador, #Administrador de Banco de Dados, #Gerente de Infraestrutura)
 
-Estamos buscando: 
+###Estamos buscando: 
+
 - Administrador de Banco de Dados: 
 - Desenvolvedor Back-end:
 - Designer: 
@@ -53,8 +56,37 @@ Estamos buscando:
 # Status do Projeto No modelo SCRUM
 
 ## Backlog do Projeto
-- Gestão de Alunos:
-  - 
+
+- Gestão de Alunos (Area do Professor):
+  - Dados, Formularios, Historico
+  - Entidades de Ensino, Classes, Grupos, Individuos
+  - Dossies 
+- 
+- Gestão do Aluno (Area do Aluno):
+  - Seus Dados
+  - Seu Cursos
+  - Suas matriculas
+  - Seus Avisos
+  - Seus Pagamentos
+  - Suas Provas 
+  - Seus Certificados
+  - Seus Colegas, Grupos e Classes. 
+- 
+- Gestão de Cursos Ministrados:
+  - Carreiras
+  - Ementas
+  - Capitulos/Temas
+  - Aulas/Conteúdos
+  - Exercicios, práticas e provas
+  - Certificações
+  
+- Gestão da Aula
+  - Preparação
+  - Avisos
+  - Apontamentos em aula
+  - Apontamentos no dossie do aluno
+  - Popups, Interações com aluno, classes e turmas.
+  - Material de apoio 
 
 ## A Fazer
 
