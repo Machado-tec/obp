@@ -43,22 +43,31 @@ Qualquer pessoa poderá colaborar de forma anonima ou não com o desenvolvimento
     
 A colaboração sempre deverá seguir boas práticas definidas para a linguagem, framework ou ferramenta em uso. 
 
-# Colaboradores: 
+Fundador: 
 - Adriano Machado: 
   - adriano@machado.tec.br | +55 67 992636781
   - Instrutor de Linguagens de Programação, Analise de Dados e Sistemas Operacionais Linux, 47 Anos, Campo Grande, MS. 
-(#Gerente de Projeto, #Arquiteto da Informação, #Programador, #Administrador de Banco de Dados, #Gerente de Infraestrutura)
 
-###Estamos buscando: 
-- Secretaria:
-- Conselheiros dos setores:
-  - Privado :
-  - Publico :
-  - Tecnico :
-  - Acessibilidade:
+
+# Colaboradores: 
+
+###Estamos buscando os seguintes colaboradores:
+- Gerentes de Projeto:
+- Arquiteto da Informação:
+- Programadores:
+- Administrador de Banco de Dados:
+- Gerente de Infraestrutura:
+- Secretarios:
+- Conselheiro dos setores:
+  - Privado : [ todos os níveis ]
+  - Publico : [ todos os níveis ]
+  - Nível Tecnico :
+  - Acessibilidade e necessidades especiais: 
   - Libras: 
   - Idiomas: 
-
+  - Tecnologias: 
+  - Jurídico:
+- Analista de Mercado: 
 - Gestor Marketing:
 - Gestor Financeira: 
 - Gestor de Docs 
@@ -69,7 +78,7 @@ A colaboração sempre deverá seguir boas práticas definidas para a linguagem,
 - Desenvolvedor Front-End:
 - Analista de Testes:
 - Revisor de Documentos: 
-- Midia
+- Midia Sociais: 
 
 
 # Status do Projeto No modelo SCRUM
