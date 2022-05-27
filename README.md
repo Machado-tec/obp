@@ -1,6 +1,6 @@
 # OBP O Bom Professor 
 ## OpenSource 
-## Status:Projeto. Faça Parte!
+## Status:Em Projeto. Faça Parte!
 
 # Software de Gestão do Ensino com Excelencia! 
 
@@ -13,13 +13,15 @@ Prover base tecnológica para professores de aulas online, presenciais e hibrida
 
 Gerenciar e organizar a vida do professor antes, durante e depois da aula, durante os preparativos para conselho de classe ou dossies. Cursos ou aulas ministradas por um ou mais instrutores, aulas gravadas, ou aulas ao vivo. Gerenciar o historico do aluno, de grupos de aluno, de classes de alunos bem como o futuro do aluno em sua vida posterior ao curso.
 
+## Quem pode Participar:
+Todos! 
+
 # Tecnologias utilizadas:
 
 1. Git / GitHub
-2. VsCode
-3. Python (Django)
-4. Mysql
-5. AWS Lambda
+2. ...
+3. ...
+
 
 # Inicialização: Utilize a clonagem do repositorio
 
@@ -125,4 +127,9 @@ Fundador:
 ## Em Revisão e Testes
 
 ## Concluido
+
+
+## Proximas reuniões
+
+2022.05.22 - Sabado - Primeiro Encontro Meet  
 
