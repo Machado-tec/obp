@@ -29,7 +29,8 @@ Todos!
 
 # Grupo Discussão e Reuniões
 
-  Telegram --> https://t.me/+2ElsFnxZ1RFjNjE5 
+  Telegram --> https://t.me/+2ElsFnxZ1RFjNjE5
+  Whatsapp --> https://chat.whatsapp.com/CB3WZA8GDqvA6ByExzXaAj
 
 
 # Implementações Futuras:
@@ -132,4 +133,5 @@ Fundador:
 ## Proximas reuniões
 
 2022.05.22 - Sabado - Primeiro Encontro Meet  
+[CONSIDERAÇÕES](docs/meets/2022-05-22.md)
 
