@@ -30,6 +30,7 @@ Todos!
 # Grupo Discussão e Reuniões
 
   Telegram --> https://t.me/+2ElsFnxZ1RFjNjE5
+
   Whatsapp --> https://chat.whatsapp.com/CB3WZA8GDqvA6ByExzXaAj
 
 
@@ -123,6 +124,11 @@ Fundador:
 
 ## A Fazer
 
+- Software
+- Site
+- Mídias Sociais
+
+
 ## Fazendo
 
 ## Em Revisão e Testes
@@ -135,3 +141,5 @@ Fundador:
 2022.05.22 - Sabado - Primeiro Encontro Meet  
 [CONSIDERAÇÕES](docs/meets/2022-05-22.md)
 
+2022.06.01 - Quarta-feira
+[CONSIDERAÇÕES](docs/meets/2022-06-01.md)
