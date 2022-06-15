@@ -19,7 +19,7 @@ Todos!
 # Tecnologias utilizadas:
 
 1. Git / GitHub
-2. ...
+2. Google Sites
 3. ...
 
 
@@ -138,8 +138,8 @@ Fundador:
 
 ## Proximas reuniões
 
-2022.05.22 - Sabado - Primeiro Encontro Meet  
-[CONSIDERAÇÕES](docs/meets/2022-05-22.md)
+Encontros via Google Meat
 
-2022.06.01 - Quarta-feira
-[CONSIDERAÇÕES](docs/meets/2022-06-01.md)
+Considerações disponível em:
+[HISTOGRAMA](docs/meets/histograma.md)
+

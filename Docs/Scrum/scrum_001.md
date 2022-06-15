@@ -11,9 +11,29 @@
 
 # ####################
 # BackLog do Projeto:
+- Site
+- Mídias
+    * Instagram
+    * Facebook
+- Formulários
+    * Entrevistas
+- Vídeos
+- Base de dados
+- Desenvolvimento Embrionário
+- Mapeameto de funcionalidades
+- Testes
+
+
 
 # ####################
 # Em Andamento:
+- Site
+- Mídias
+    * Instagram
+    * Facebook
+- Formulários
+    * Entrevistas
+- Vídeos
 
 # ####################
 # Em testes/Revisões:
